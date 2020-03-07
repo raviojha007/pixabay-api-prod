@@ -1,0 +1,52 @@
+{
+  "name": "movie-list",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://raviojha007.github.io/pixabay-api-image",
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.19.1",
+    "bootstrap": "^4.4.1",
+    "fabric": "^4.0.0-beta.7",
+    "fabric-react": "0.0.1",
+    "jquery": "^3.4.1",
+    "photoeditorsdk": "^4.22.3",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-fabricjs": "^0.1.6",
+    "react-form-validator-core": "^0.6.5",
+    "react-loading": "^2.0.3",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.3.0",
+    "reactstrap": "^8.4.0",
+    "tachyons-components": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}

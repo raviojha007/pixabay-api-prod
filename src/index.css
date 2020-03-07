@@ -1,0 +1,19 @@
+body {
+  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: helvetica;
+    background-color: black;
+    backface-visibility: hidden;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to right, rgb(0, 176, 155), rgb(150, 201, 61));
+ 
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
