@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cbc7f5141dd037383774da5330baf830",
+    "revision": "75ea9fc44b384bb3631b096dd080c6df",
     "url": "/pixabay-api-prod/index.html"
   },
   {
-    "revision": "e4ac90c55432e6b64cae",
+    "revision": "3e8738ff8a8267310bf7",
     "url": "/pixabay-api-prod/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "bda176f3253a3bc23aa9",
+    "revision": "10016cf2fb4aaa91cdf8",
     "url": "/pixabay-api-prod/static/css/main.13a99e88.chunk.css"
   },
   {
-    "revision": "e4ac90c55432e6b64cae",
-    "url": "/pixabay-api-prod/static/js/2.b8895eca.chunk.js"
+    "revision": "3e8738ff8a8267310bf7",
+    "url": "/pixabay-api-prod/static/js/2.263bbd24.chunk.js"
   },
   {
     "revision": "6a984828c7bfd37325840f267d05c6ba",
-    "url": "/pixabay-api-prod/static/js/2.b8895eca.chunk.js.LICENSE"
+    "url": "/pixabay-api-prod/static/js/2.263bbd24.chunk.js.LICENSE"
   },
   {
-    "revision": "bda176f3253a3bc23aa9",
-    "url": "/pixabay-api-prod/static/js/main.3be4e04a.chunk.js"
+    "revision": "10016cf2fb4aaa91cdf8",
+    "url": "/pixabay-api-prod/static/js/main.9fcdf49e.chunk.js"
   },
   {
     "revision": "5f77b2647a5513a319ed",
