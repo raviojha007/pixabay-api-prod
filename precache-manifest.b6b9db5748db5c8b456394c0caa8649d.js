@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "246107376444836b61173bf3f983d352",
+    "revision": "cbc7f5141dd037383774da5330baf830",
     "url": "/pixabay-api-prod/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pixabay-api-prod/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "3bacfcdad22fbd625440",
+    "revision": "bda176f3253a3bc23aa9",
     "url": "/pixabay-api-prod/static/css/main.13a99e88.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pixabay-api-prod/static/js/2.b8895eca.chunk.js.LICENSE"
   },
   {
-    "revision": "3bacfcdad22fbd625440",
-    "url": "/pixabay-api-prod/static/js/main.dd2d5958.chunk.js"
+    "revision": "bda176f3253a3bc23aa9",
+    "url": "/pixabay-api-prod/static/js/main.3be4e04a.chunk.js"
   },
   {
     "revision": "5f77b2647a5513a319ed",
